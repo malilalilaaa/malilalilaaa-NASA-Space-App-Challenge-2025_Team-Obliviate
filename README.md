@@ -23,11 +23,12 @@ Our answer is NovaSense, an app that unlocks this hidden language, turning compl
 
 🔔 Live, Personalized Safety Alerts
 Get immediate warnings for floods, fires, and earthquakes tailored to your location.
-<img width="318" height="679" alt="image" src="https://github.com/user-attachments/assets/b053c280-426a-4e86-a7c3-d64495cb331e" />
+
+<img width="192" height="410" alt="image" src="https://github.com/user-attachments/assets/b053c280-426a-4e86-a7c3-d64495cb331e" />
 <img width="195" height="410" alt="image" src="https://github.com/user-attachments/assets/2f86280f-f45c-4fc1-84eb-bc1a6458620d" />
 <img width="192" height="405" alt="image" src="https://github.com/user-attachments/assets/6f83a175-67ae-4172-8a1b-4302ea63ec55" />
 <img width="190" height="412" alt="image" src="https://github.com/user-attachments/assets/8e3660c2-5145-44b8-b05c-b2424aa8c498" />
-<img width="323" height="684" alt="image" src="https://github.com/user-attachments/assets/d271645a-9290-4916-941c-ade1fd35a44d" />
+<img width="192" height="412" alt="image" src="https://github.com/user-attachments/assets/d271645a-9290-4916-941c-ade1fd35a44d" />
 
 🧩 Interactive Learning Adventures
 Fun quizzes using real NASA data make learning a game. Stuck? Jump into the Knowledge Hub for simple science stories.
